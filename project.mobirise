@@ -149,7 +149,7 @@
             ".navbar-brand a": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "32px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.4em",
@@ -257,7 +257,7 @@
             ".navbar-brand a": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "32px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.4em",
@@ -349,7 +349,7 @@
             ".navbar-brand a": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "32px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.4em",
@@ -470,7 +470,7 @@
             ".navbar-brand a": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "32px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.4em",
