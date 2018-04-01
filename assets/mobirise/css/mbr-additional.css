@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+#dropdown-menu-2btn-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-d .nav .link,
+#dropdown-menu-2btn-d .dropdown-item {
+  font-size: 1.6em;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#dropdown-menu-2btn-d .navbar,
+#dropdown-menu-2btn-d .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-d .dropdown-menu a:hover,
+#dropdown-menu-2btn-d .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-d .navbar-toggler {
+  color: #000000;
+}
+
+
+#msg-box2-j H2 {
+  text-align: left;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#dropdown-menu-2btn-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-g .nav .link,
+#dropdown-menu-2btn-g .dropdown-item {
+  font-size: 1.6em;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#dropdown-menu-2btn-g .navbar,
+#dropdown-menu-2btn-g .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-g .dropdown-menu a:hover,
+#dropdown-menu-2btn-g .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-g .navbar-toggler {
+  color: #000000;
+}
+
+#dropdown-menu-2btn-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-k .nav .link,
+#dropdown-menu-2btn-k .dropdown-item {
+  font-size: 1.6em;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#dropdown-menu-2btn-k .navbar,
+#dropdown-menu-2btn-k .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-k .dropdown-menu a:hover,
+#dropdown-menu-2btn-k .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-k .navbar-toggler {
+  color: #000000;
+}
+#msg-box2-n H2 {
+  text-align: right;
+}
+
+#dropdown-menu-2btn-l .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-l .nav .link,
+#dropdown-menu-2btn-l .dropdown-item {
+  font-size: 1.6em;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#dropdown-menu-2btn-l .navbar,
+#dropdown-menu-2btn-l .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-l .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-l .dropdown-menu a:hover,
+#dropdown-menu-2btn-l .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-l .navbar-toggler {
+  color: #000000;
+}
+#form1-m .mbr-section-title {
+  text-align: right;
+}
