@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dona Urraca",
-    "currentPage": "index.html",
+    "currentPage": "Colecao.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,7 +16,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.6.6",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -139,7 +139,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -247,7 +247,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -313,6 +313,71 @@
           ],
           "_name": "image1",
           "_anchor": "image1-i"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/banner-preview-ss18-desktop-2-1680x710.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/banner-preview-ss18-desktop-2-1680x710-781x586.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rinascimento-campaign-ss18-2-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rinascimento-campaign-ss18-2-1280x960-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rinascimento-estate2018-catalogo-3-1000x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rinascimento-estate2018-catalogo-3-1000x800-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rinascimento-pe-2018-1000-7-2-at1rhv-1000x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rinascimento-pe-2018-1000-7-2-at1rhv-1000x900-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rinascimento-pe-2018-1000-8-1-d4ayvf-1000x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rinascimento-pe-2018-1000-8-1-d4ayvf-1000x900-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/superiore-rinascimento-abbigliamento-negozi-torino-rinascimento-abbigliamento-primavera-estate-2018-catalogo-beaut-8195-1200x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/superiore-rinascimento-abbigliamento-negozi-torino-rinascimento-abbigliamento-primavera-estate-2018-catalogo-beaut-8195-1200x1080-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rinascimento-campaign-ss18-2-1280x960-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rinascimento-campaign-ss18-2-1280x960-800x600-800x600.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-720x1080-720x540.jpg",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-p"
         }
       ]
     },
@@ -339,7 +404,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -460,7 +525,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Início</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Coleção</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Rinascimenti</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Foreva Young</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Colecao.html\">Outra</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Contacta-nos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Localização</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:220974761\">Telf. -&nbsp;22 097 4761</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>",
           "_tags": [
             "Theme"
           ],
